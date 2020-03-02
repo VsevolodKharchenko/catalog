@@ -1,0 +1,64 @@
+*{
+	 margin: 0;
+	 padding: 0;
+	 background-image: url(bacc.jpg);
+}
+
+header {
+	 text-align: center;
+	 margin-top: 40px;
+}
+
+.container {
+	text-align: center;
+	 margin-top: 40px;
+}
+	
+
+h1 {
+	border: 15px solid grey;
+	border-bottom: center;
+	margin: 20px;
+	text-align: center;
+	color: red;
+	font-size: 40px;
+}
+
+.description {
+	text-align: center;
+     margin: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+.spooghetti {
+	text-align: center;
+}
+
+h4 {
+    margin: 20px;
+	text-align: center;
+	color: red;
+	font-size: 40px;
+}
+
+.mannuls {
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	background-color: grey;
+}
+
+.ginnungugagap {
+	background: solid grey;
+	border-color: grey;
+	border: 15px solid grey;
+	text-align: center;
+	background-color: grey;
+}
+	
